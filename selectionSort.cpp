@@ -9,7 +9,7 @@ void selectionSort(int arr[ARR_LENGHT]);
 int main() {
 	int arr[ARR_LENGHT];
 
-	cout << "Input " << ARR_LENGHT << "arr value" << endl;
+	cout << "Input " << ARR_LENGHT << " arr value" << endl;
 	for (int i = 0; i < ARR_LENGHT; i++) {
 		cin >> arr[i];
 	}
